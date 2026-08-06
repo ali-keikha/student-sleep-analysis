@@ -102,27 +102,6 @@ jupyter notebook
 
 Open the notebook and run all cells.
 
----
-
-##  Skills Demonstrated
-
-* Data Cleaning
-* Exploratory Data Analysis (EDA)
-* Statistical Analysis
-* Data Visualization
-* Pandas
-* NumPy
-* Python Programming
-
----
-
-##  Future Improvements
-
-* Interactive dashboards using Plotly
-* Statistical hypothesis testing
-* Machine Learning models
-* Predictive analytics
-* Automated reporting
 
 ---
 
@@ -137,7 +116,7 @@ GitHub: https://github.com/ali-keikha
 
 ##  Personal Note
 
-This project is my **first serious data analysis project** using **Pandas** and **NumPy**.
+This project is my **first serious data analysis project** using **Pandas** , **NumPy** And  **Matplotlib**.
 
 I decided to keep it on my GitHub as a milestone in my learning journey. It isn't intended to be a perfect or highly advanced analysis—rather, it's a snapshot of where I started and how my skills evolve over time.
 
